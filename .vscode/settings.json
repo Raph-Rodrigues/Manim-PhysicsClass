@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "python-envs.pythonProjects": [],
+  "manim-sideview.previewLooping": true,
+  "manim-sideview.terminalCommand": "manim -pqm {file} {classname}",
+  "manim-sideview.commandLineArgs": "--disable_caching"
+}
