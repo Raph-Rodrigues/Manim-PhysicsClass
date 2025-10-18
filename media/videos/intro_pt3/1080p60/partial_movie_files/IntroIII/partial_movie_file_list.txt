@@ -70,3 +70,8 @@ file 'file:/home/raph-linux/Documentos/programming/learning/manim/physics_class/
 file 'file:/home/raph-linux/Documentos/programming/learning/manim/physics_class/media/videos/intro_pt3/1080p60/partial_movie_files/IntroIII/uncached_00068.mp4'
 file 'file:/home/raph-linux/Documentos/programming/learning/manim/physics_class/media/videos/intro_pt3/1080p60/partial_movie_files/IntroIII/uncached_00069.mp4'
 file 'file:/home/raph-linux/Documentos/programming/learning/manim/physics_class/media/videos/intro_pt3/1080p60/partial_movie_files/IntroIII/uncached_00070.mp4'
+file 'file:/home/raph-linux/Documentos/programming/learning/manim/physics_class/media/videos/intro_pt3/1080p60/partial_movie_files/IntroIII/uncached_00071.mp4'
+file 'file:/home/raph-linux/Documentos/programming/learning/manim/physics_class/media/videos/intro_pt3/1080p60/partial_movie_files/IntroIII/uncached_00072.mp4'
+file 'file:/home/raph-linux/Documentos/programming/learning/manim/physics_class/media/videos/intro_pt3/1080p60/partial_movie_files/IntroIII/uncached_00073.mp4'
+file 'file:/home/raph-linux/Documentos/programming/learning/manim/physics_class/media/videos/intro_pt3/1080p60/partial_movie_files/IntroIII/uncached_00074.mp4'
+file 'file:/home/raph-linux/Documentos/programming/learning/manim/physics_class/media/videos/intro_pt3/1080p60/partial_movie_files/IntroIII/uncached_00075.mp4'
